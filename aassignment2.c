@@ -15,7 +15,7 @@ int main()
       sum+=exp1;
       mul*=exp1;
     }
-    exp3;
+    exp2;
   }
   printf("\n Sum=%d\n",sum);
   printf("\n Mul=%d\n",mul);
